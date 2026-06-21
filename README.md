@@ -47,4 +47,5 @@ Successfully developed and tested a basic network packet sniffer using Python an
 ## Author
 
 Devendra Verma
-BCA (Cybersecurity)
+
+Cybersecurity
